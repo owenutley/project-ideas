@@ -1,0 +1,16 @@
+
+
+    Health Tracker/journal
+
+    MVP
+
+- Users can track meals
+- Users can track exercise
+- Users can track how they felt through the day
+- Users can see a short history and discription of their week
+- Users can set goals for their week (and see how they did at the end)
+
+    future features
+
+-Users can connect with other Users
+-Users can share BOOKS, EXPERIENCES, and RECIPES with other Users
